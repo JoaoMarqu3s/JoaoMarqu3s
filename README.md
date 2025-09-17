@@ -57,17 +57,6 @@ Com uma base sólida em coordenação de projetos e otimização de fluxos de tr
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/JoaoMarqu3s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMarqu3s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarqu3s&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 📂 Meus Projetos
 
 > **Nota:** Esta seção é um modelo. Substitua com seus próprios projetos para torná-la ainda mais poderosa!
