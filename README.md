@@ -67,7 +67,7 @@ Com uma base sólida em coordenação de projetos e otimização de fluxos de tr
       <h3 align="center">GymFLow</h3>
       <br />
       <a target="_blank" href="#">
-        <img src="https://picsum.photos/seed/1/400/200" width="100%" alt="Nome do Projeto 1"/>
+        <img src="tela-gymflow" width="100%" alt="Projeto GymFlow"/>
       </a>
       <br />
       <p align="center">
