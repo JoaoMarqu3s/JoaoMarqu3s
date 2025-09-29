@@ -64,7 +64,7 @@ Com uma base sólida em coordenação de projetos e otimização de fluxos de tr
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Nome do Projeto 1</h3>
+      <h3 align="center">GymFLow</h3>
       <br />
       <a target="_blank" href="#">
         <img src="https://picsum.photos/seed/1/400/200" width="100%" alt="Nome do Projeto 1"/>
@@ -79,7 +79,7 @@ Com uma base sólida em coordenação de projetos e otimização de fluxos de tr
         </a>
       </p>
       <p>
-        <strong>Descrição:</strong> Uma breve descrição sobre o que seu projeto faz, qual problema ele resolve e quais foram seus principais aprendizados.
+        <strong>Descrição:</strong> Um sistema de cadastro, controle e relatórios simples para academias.
       </p>
       <p>
         <strong>Tecnologias:</strong> Python (Pandas, Flask), SQL, HTML, etc.
